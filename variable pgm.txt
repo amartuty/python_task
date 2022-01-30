@@ -1,0 +1,12 @@
+#int
+roll_number = 0703
+  
+#float
+maths_mark = 80.5
+  
+#string
+name = "Amar"
+  
+print(roll_number)
+print(maths_mark)
+print(name)

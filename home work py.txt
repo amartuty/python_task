@@ -1,0 +1,38 @@
+#Variable - concern name or symbol we assign to data value
+
+#data type - there are types types of data available, data type helps the program to identify them.
+
+#function - basically used for do a certain task and process it after that return as output
+
+#inbuilt function - a function which already defined in program.
+
+#key word - they are reserved word that have a meaning already.
+
+#data structure -  any of various methods or formats for organizing data in a computer
+
+#operator - special symbols in Python that carry out arithmetic things.
+
+#keyword: true & false - The True keyword is used as the Boolean true value in Python code
+
+#none - The Python keyword None represents no value
+
+#and - The Python keyword and is used to determine if both the left and right operands are truthy or falsy. If both operands are truthy, then the result will be truthy. If one is falsy, then the result will be falsy.
+
+#or -  or keyword is used to determine if at least one of the operands is truthy
+
+#not - not keyword is used to get the opposite Boolean value of a variable.
+
+#data type
+
+#int ==> represent a number througout the program.
+#float==> represent a decimal point.
+#boolean==> represnt one of the two value true or false
+#str==> collection od date within the quotation mark or words.
+#complex==> it represent the real and imaginory date ex: 5+6j.
+
+#comparison operator == less than or equal to <= (or) grater tha equal to >=
+#assignment opertor == This operator is used to assign the value of the right side of the expression to the left side operand
+#logical operators == used on conditional statements eithr true or false.
+#bitwise operator = used to performing bitwise calculations.
+#memebership operator == use to fint out certain word or value in string or throughout the statement.
+#ternary operator == operators that evaluate something based on a condition being true or false.
